@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/MargaritaAveryanova/user-shelter/static/css/main.7cdcf128.css",
-    "main.js": "/MargaritaAveryanova/user-shelter/static/js/main.ec651dd9.js",
-    "static/media/cat.jpg": "/MargaritaAveryanova/user-shelter/static/media/cat.16275555893d4149b2c8.jpg",
-    "static/media/dog3.jpg": "/MargaritaAveryanova/user-shelter/static/media/dog3.802bfb3f9eb3d996314c.jpg",
-    "static/media/pets.jpg": "/MargaritaAveryanova/user-shelter/static/media/pets.e015bb3bb707448b9825.jpg",
-    "static/media/dog1.jpg": "/MargaritaAveryanova/user-shelter/static/media/dog1.30b99ea0bf656ce2b506.jpg",
-    "static/media/dog2.jpg": "/MargaritaAveryanova/user-shelter/static/media/dog2.a119f98be8bd15780c5f.jpg",
-    "static/media/pet7.jpg": "/MargaritaAveryanova/user-shelter/static/media/pet7.5b96081cb15a1949148a.jpg",
-    "static/media/pet5.jpg": "/MargaritaAveryanova/user-shelter/static/media/pet5.b9645eff71d147922555.jpg",
-    "static/media/pet1.jpg": "/MargaritaAveryanova/user-shelter/static/media/pet1.5b5fb151c2a4416fec46.jpg",
-    "static/media/pet3.jpg": "/MargaritaAveryanova/user-shelter/static/media/pet3.cc9e2299e95c033bbe6d.jpg",
-    "static/media/pet2.jpg": "/MargaritaAveryanova/user-shelter/static/media/pet2.c653e68e8e6472ba3c94.jpg",
-    "static/media/pet4.jpg": "/MargaritaAveryanova/user-shelter/static/media/pet4.7756b7ad6d7bfdad3290.jpg",
-    "static/media/pet8.jpg": "/MargaritaAveryanova/user-shelter/static/media/pet8.173c56b505671a282ed5.jpg",
-    "static/media/pet6.jpg": "/MargaritaAveryanova/user-shelter/static/media/pet6.ab029843a7aca6451cbc.jpg",
-    "index.html": "/MargaritaAveryanova/user-shelter/index.html",
-    "main.7cdcf128.css.map": "/MargaritaAveryanova/user-shelter/static/css/main.7cdcf128.css.map",
-    "main.ec651dd9.js.map": "/MargaritaAveryanova/user-shelter/static/js/main.ec651dd9.js.map"
+    "main.css": "/user-shelter/static/css/main.7cdcf128.css",
+    "main.js": "/user-shelter/static/js/main.7414becd.js",
+    "static/media/cat.jpg": "/user-shelter/static/media/cat.16275555893d4149b2c8.jpg",
+    "static/media/dog3.jpg": "/user-shelter/static/media/dog3.802bfb3f9eb3d996314c.jpg",
+    "static/media/pets.jpg": "/user-shelter/static/media/pets.e015bb3bb707448b9825.jpg",
+    "static/media/dog1.jpg": "/user-shelter/static/media/dog1.30b99ea0bf656ce2b506.jpg",
+    "static/media/dog2.jpg": "/user-shelter/static/media/dog2.a119f98be8bd15780c5f.jpg",
+    "static/media/pet7.jpg": "/user-shelter/static/media/pet7.5b96081cb15a1949148a.jpg",
+    "static/media/pet5.jpg": "/user-shelter/static/media/pet5.b9645eff71d147922555.jpg",
+    "static/media/pet1.jpg": "/user-shelter/static/media/pet1.5b5fb151c2a4416fec46.jpg",
+    "static/media/pet3.jpg": "/user-shelter/static/media/pet3.cc9e2299e95c033bbe6d.jpg",
+    "static/media/pet2.jpg": "/user-shelter/static/media/pet2.c653e68e8e6472ba3c94.jpg",
+    "static/media/pet4.jpg": "/user-shelter/static/media/pet4.7756b7ad6d7bfdad3290.jpg",
+    "static/media/pet8.jpg": "/user-shelter/static/media/pet8.173c56b505671a282ed5.jpg",
+    "static/media/pet6.jpg": "/user-shelter/static/media/pet6.ab029843a7aca6451cbc.jpg",
+    "index.html": "/user-shelter/index.html",
+    "main.7cdcf128.css.map": "/user-shelter/static/css/main.7cdcf128.css.map",
+    "main.7414becd.js.map": "/user-shelter/static/js/main.7414becd.js.map"
   },
   "entrypoints": [
     "static/css/main.7cdcf128.css",
-    "static/js/main.ec651dd9.js"
+    "static/js/main.7414becd.js"
   ]
 }
